@@ -15,7 +15,7 @@ Template:       twentytwentyfive
 }
 
 footer{
-	background-color: var(--silver)
+	background-color: var(--silver);
 	color: var(--black)
 	
 }
